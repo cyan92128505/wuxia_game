@@ -46,3 +46,9 @@ app.*.map.json
 
 # Temp Files
 temp/
+
+# FVM Version Cache
+.fvm/
+
+# vscode setting
+.vscode
